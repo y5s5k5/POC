@@ -6,4 +6,4 @@ Software version：3.2
 Affected Component: AtpKrnl.sys     
 problematic IOCTL: 0x00223CCA,0x00223CCD    
 After running the software, please click this button to start the driver later  
-![](https://github.com/y5s5k5/POC/blob/master/1.png)   
+![](https://github.com/y5s5k5/POC/blob/master/1.png)

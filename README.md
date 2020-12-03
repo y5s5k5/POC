@@ -1,4 +1,4 @@
-# CVE-2020-14957 CVE-2020-14956
+# CVE-2020-14957
 Experimental environment: win7 x32  
 Software official website:http://www.arswp.com  
 Software download address:http://www.arswp.com/download.html  
